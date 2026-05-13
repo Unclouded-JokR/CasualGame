@@ -3,7 +3,7 @@ This was the second game we created for CSE-4304, where we had the choice to mak
 We only had 3 weeks to work on this game, and by the time I had gotten player movement in a state I thought was good enough, I had only a couple of days left to be able to design a level using tiles and creating basic enemies (I did'nt even have enough time to give my game a proper name). There is a lot I like and dislike about this game, but I learned a lot along the way. 
 You can actually see the small test area I created when I was prototyping the movement in the "In-Game Images" section.
 
-### How to Play Cosmic Problem Solver
+### How to Play
 If you are wanting to play the game download the [2D_Platformer.zip](https://drive.google.com/file/d/1z-veLXKbHn8nd9eWf4B3RMEhyasGpPIh/view?usp=drive_link) and extract the contents. Once extracted double click the Casual_Game_test.exe and enjoy!
 
 # In-Game Images
